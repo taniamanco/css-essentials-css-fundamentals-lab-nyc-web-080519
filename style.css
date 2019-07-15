@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+header {
+  text-align: center;
+}
+
+#featured-property {
+ text-align: center;
+}
+
+nav {
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: orange;
+}
+
+figcaption {
+  font-size: 8;
+}
+
+p.featured-property {
+  width: 800px;
+}
